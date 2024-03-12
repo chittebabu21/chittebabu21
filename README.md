@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software engineer 👨‍💻 currently pursuing my Master’s in Science of Computing 📜 from the University of Roehampton 🏫  UK 🇬🇧 
+I am a Full Stack Developer 👨‍💻 currently pursuing my Master’s in Science of Computing 📜 from the University of Roehampton 🏫  UK 🇬🇧 
 
 
 ## 🌐 Socials:
